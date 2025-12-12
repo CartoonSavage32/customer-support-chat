@@ -33,7 +33,7 @@ ViralLens is a full-stack AI customer support chat application. Users can sign u
 ### 1. Clone the repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/CartoonSavage32/customer-support-chat
 cd virallens
 ```
 
